@@ -1,21 +1,21 @@
-Screentime Data Analysis and Cleaning:
+#Screentime Data Analysis and Cleaning:
 
 This project focuses on cleaning and processing a dataset related to screentime usage. The goal is to handle missing values, detect and remove outliers, manage duplicates, create new features, and apply scaling and normalization techniques to prepare the data for further analysis.
 
-Technologies Used
-Python
-Pandas
-NumPy
-Seaborn
-Matplotlib
-Scikit-learn
-Key Features and Steps
-Data Loading:
-The dataset screentime_analysis.csv is loaded using Pandas.
+#Technologies Used
+##-Python
+##-Pandas
+##-NumPy
+##-Seaborn
+##-Matplotlib
+##-Scikit-learn
+##-Key Features and Steps
+##-Data Loading:
+##-The dataset screentime_analysis.csv is loaded using Pandas.
 
 Handling Missing Values:
 
-Missing values per column are analyzed.
+#Missing values per column are analyzed.
 Rows with excessive missing data are dropped using a threshold-based approach.
 Outlier Detection and Removal:
 
