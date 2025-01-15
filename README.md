@@ -1,5 +1,5 @@
-Screentime Data Analysis and Cleaning
-Project Overview
+Screentime Data Analysis and Cleaning:
+
 This project focuses on cleaning and processing a dataset related to screentime usage. The goal is to handle missing values, detect and remove outliers, manage duplicates, create new features, and apply scaling and normalization techniques to prepare the data for further analysis.
 
 Technologies Used
